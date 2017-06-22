@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AvocadoTextView">
+        <attr name="avocadoText" format="string"/>
+        <attr name="avocadoSetTextColor" format="boolean"/>
+    </declare-styleable>
+    <declare-styleable name="AvocadoImageView">
+        <attr name="avocadoImageType" format="string"/>
+    </declare-styleable>
+</resources>
